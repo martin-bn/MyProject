@@ -7,3 +7,7 @@ Created on Thu Jun 18 13:27:34 2020
 """
 
 print("Boom shakalaka")
+
+
+print("Legger til denne linjen som en endring")
+print("Legger til enda en endring")
